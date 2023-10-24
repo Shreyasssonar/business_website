@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    position: sticky;
+    top: 0px;
+}
+.hw{
+    width: 600px;
+    height: 400px;
+}
+h1{
+    font-size: 60px;
+      font-family: Sedgwick Ave Display;
+}
+
+#work{
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+  }
+  .work>h1{
+      font-size: 60px;
+      font-family: Sedgwick Ave Display;
+  }
+  .work{
+      display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+  }
+  .work>img{
+      width: 300px;
+      height: 200px;
+  }
+  .img>img{
+      width: 300px;
+      height: 200px;
+  }

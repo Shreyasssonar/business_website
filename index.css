@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    position: sticky;
+    top: 0px;
+}
+.hero{
+    background-image: url("https://img.freepik.com/free-vector/network-mesh-wire-digital-technology-background_1017-27428.jpg?w=1380&t=st=1698137683~exp=1698138283~hmac=3dd906afd5335f2032b7c06c0ca6961cd2694f18f3ed64631d59c6705dff3307");
+   width: 100vw;
+    height: 50vw;
+    background-repeat: no-repeat;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 15%;
+}
+.mt{
+    margin-top: 100px;
+}
+.hero>h1{
+    font-size: 60px;
+    font-family: Sedgwick Ave Display;
+}
+
+
+
+#work{
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+.work>h1{
+    font-size: 60px;
+    font-family: Sedgwick Ave Display;
+}
+.work{
+    display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+.work>img{
+    width: 300px;
+    height: 200px;
+}
+.img>img{
+    width: 300px;
+    height: 200px;
+}
+
+footer{
+    margin-top: 150px;
+}
